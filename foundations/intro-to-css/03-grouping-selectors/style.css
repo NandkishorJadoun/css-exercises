@@ -1,0 +1,12 @@
+.different-1{
+    background-color: black;
+    color: white;
+}
+.different-2{
+    background-color: yellow;
+}
+.different-1,
+.different-2{
+    font-size: 28px;
+    font-family:  helvetica, times new roman, sans-serif;
+}
